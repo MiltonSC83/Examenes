@@ -1,0 +1,33 @@
+Prueba 1
+
+Este programa realiza la suma y division de dos numeros dados por el usuario
+Introduce el primer numero, que corresponde a el primer sumando y el dividendo
+24
+Introduce el segundo numero, que corresponde a el segundo sumando y el divisor
+36
+
+La suma es = 60
+La division es = 0.666666666666667
+
+Prueba 2
+
+Este programa realiza la suma y division de dos numeros dados por el usuario
+Introduce el primer numero, que corresponde a el primer sumando y el dividendo
+85
+Introduce el segundo numero, que corresponde a el segundo sumando y el divisor
+65
+
+La suma es = 150
+La division es = 1.30769230769231
+
+Prueba 3
+
+Este programa realiza la suma y division de dos numeros dados por el usuario
+Introduce el primer numero, que corresponde a el primer sumando y el dividendo
+3568
+Introduce el segundo numero, que corresponde a el segundo sumando y el divisor
+89
+
+La suma es = 3657
+La division es = 40.0898876404494
+
